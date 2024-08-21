@@ -1,16 +1,105 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**EgorLevites/EgorLevites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Egor Levites, a Junior Python Full Stack Programmer with experience in process automation and web application development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  I’m currently working on automating processes and developing bots to support users at Rhenium Group.
+-  I’m looking for opportunities to grow as a Python Backend Programmer, where I can apply my skills in development.
+
+
+## Technologies and Tools
+
+### Programming Languages
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="110" height="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" height="36" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="110" height="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="110" height="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="110" height="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="110" height="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="110" height="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+  </tr>
+</table>
+
+### Web Development
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="36" height="36" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="110" height="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="36" height="36" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="110" height="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="110" height="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" height="36" alt="Redux" />
+      <br>Redux
+    </td>
+  </tr>
+</table>
+
+### Database Management
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="110" height="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="36" height="36" alt="SQLAlchemy" />
+      <br>SQLAlchemy
+    </td>
+  </tr>
+</table>
+
+### Cloud Services
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+        <img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/89884/render-status-4b015255-e0cc-422c-943d-4f60b5f03094.png" />
+      <br>Render
+    </td>
+    <td align="center" width="110" height="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub" />
+      <br>GitHub
+    </td>
+  </tr>
+</table>
+
+
+## Contact Me
+
+- LinkedIn: 
+
