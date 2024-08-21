@@ -1,6 +1,10 @@
-# Hi there! 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F75C7E&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Egor+Levites;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=egorlevites&color=blue)
 
 I'm Egor Levites, a Junior Python Full Stack Programmer with experience in process automation and web application development.
+
 
 ## About Me
 
@@ -97,6 +101,11 @@ I'm Egor Levites, a Junior Python Full Stack Programmer with experience in proce
     </td>
   </tr>
 </table>
+
+
+## Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egorlevites&layout=compact)](https://github.com/egorlevites)
 
 
 ## Contact Me
