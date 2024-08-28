@@ -3,7 +3,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=egorlevites&color=blue)
 
-I'm Egor Levites, a Junior Python Full Stack Programmer with experience in process automation and web application development.
+I'm Egor Levites, a Python Full Stack Programmer with experience in process automation and web application development.
 
 
 ## About Me
